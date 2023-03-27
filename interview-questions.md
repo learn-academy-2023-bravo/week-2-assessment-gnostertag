@@ -18,7 +18,7 @@ Your answer:
 
 Researched answer:
 
-3. What is the difference between map and filter?
+3. What is the difference between map and filt er?
 
 Your answer:
 
